@@ -1,7 +1,7 @@
-# Demo 
+# Description
 
-Some descriptions!
+Useless database GUI used for garbage data
 
-# Subheader
+# Why not SQL?
 
-Watch tutorial on YOUtube
+SQL is created for those don't understand codes, but there are people don't understand sql...
