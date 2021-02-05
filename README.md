@@ -1,6 +1,6 @@
 # Description
 
-Useless database GUI used for garbage data
+Useless database GUI used for garbage data searching.
 
 # Why not SQL?
 
